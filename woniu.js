@@ -24,7 +24,7 @@ function FX_ZYS(lsrc) {
     } else if ((myx[4]).indexOf("//image") > -1) {
 		//if ((myx[4]).indexOf(".xmcdn.com") > -1) {
 			//mypng = myx[4];
-		//}else{
+		//}else{ 
 			mypng = 'http:' + myx[4];
 		//}
     } else {
